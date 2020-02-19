@@ -22,4 +22,4 @@ Bonus Question 1
 1) From command line, run app.py 
 	(command => python app.py)
 2) Copy the http address generated from the above command. Paste it in to a browser to visualize the dashboard. (Example link => http://127.0.0.1:5000/)
-3) Enter the two files and hit Calculate
+3) Enter the path of the two files and hit Calculate
